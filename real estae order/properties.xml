@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <property>
+        <image>images/4304878.jpg</image>
+        <info>
+            <posted>3 days ago</posted>
+            <status>for rent</status>
+        </info>
+        <content>
+            <h3>buying home</h3>
+            <p>orem ipsum dolor sit amet, consectetur adipiscing elit, 
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <button>learn more</button>
+        </content>
+    </property>
+    <property>
+        <image>images/9920744_4311160.jpg</image>
+        <info>
+            <posted>4 days ago</posted>
+            <status>for sell</status>
+        </info>
+        <content>
+            <h3>buying home</h3>
+            <p>orem ipsum dolor sit amet, consectetur adipiscing elit, 
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <button>learn more</button>
+        </content>
+    </property>
+    <property>
+        <image>images/9920737_4305196.jpg</image>
+        <info>
+            <posted>4 days ago</posted>
+            <status>for sell</status>
+        </info>
+        <content>
+            <h3>buying home</h3>
+            <p>orem ipsum dolor sit amet, consectetur adipiscing elit, 
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <button>learn more</button>
+        </content>
+    </property>
+    <property>
+        <image>images/modern-living-room-style.jpg</image>
+        <info>
+            <posted>3 days ago</posted>
+            <status>for rent</status>
+        </info>
+        <icons>
+            <icon type="film"></icon>
+            <icon type="camera"></icon>
+        </icons>
+        <content>
+            <price>25,00 usd</price>
+            <actions>
+                <action type="heart"></action>
+                <action type="envelope"></action>
+                <action type="phone"></action>
+            </actions>
+            <location>
+                <title>modern apartment</title>
+                <address>jogeshwari, mumbai, india - 400104</address>
+            </location>
+            <details>
+                <detail type="area">3500 sqft</detail>
+                <detail type="bedrooms">2 bed</detail>
+                <detail type="bathrooms">3 baths</detail>
+            </details>
+            <buttons>
+                <button>request info</button>
+                <button>view details</button>
+            </buttons>
+        </content>
+    </property>
+    <property>
+        <image>images/modern-apartment-with-comfortable-sofa-decor-generated-by-ai.jpg</image>
+        <info>
+            <posted>4 days ago</posted>
+            <status>for sell</status>
+        </info>
+        <icons>
+            <icon type="film"></icon>
+            <icon type="camera"></icon>
+        </icons>
+        <content>
+            <price>25,00 usd</price>
+            <actions>
+                <action type="heart"></action>
+                <action type="envelope"></action>
+                <action type="phone"></action>
+            </actions>
+            <location>
+                <title>modern apartment</title>
+                <address>jogeshwari, mumbai, india - 400104</address>
+            </location>
+            <details>
+                <detail type="area">3500 sqft</detail>
+                <detail type="bedrooms">2 bed</detail>
+                <detail type="bathrooms">3 baths</detail>
+            </details>
+            <buttons>
+                <button>request info</button>
+                <button>view details</button>
+            </buttons>
+        </content>
+    </property>
+    <property>
+        <image>images/scandinavian-living-room-interior-design-zoom-background.jpg</image>
+        <info>
+            <posted>4 days ago</posted>
+            <status>for sell</status>
+        </info>
+        <icons>
+            <icon type="film"></icon>
+            <icon type="camera"></icon>
+        </icons>
+        <content>
+            <price>125,00 usd</price>
+            <actions>
+                <action type="heart"></action>
+                <action type="envelope"></action>
+                <action type="phone"></action>
+            </actions>
+            <location>
+                <title>modern apartment</title>
+                <address>jogeshwari, mumbai, india - 400104</address>
+            </location>
+            <details>
+                <detail type="area">3500 sqft</detail>
+                <detail type="bedrooms">2 bed</detail>
+                <detail type="bathrooms">3 baths</detail>
+            </details>
+            <buttons>
+                <button>request info</button>
+                <button>view details</button>
+            </buttons>
+        </content>
+    </property>
+    <property>
+        <image>images/scandinavian-living-room-interior-design-zoom-background.jpg</image>
+        <info>
+            <posted>4 days ago</posted>
+            <status>for sell</status>
+        </info>
+        <icons>
+            <icon type="film"></icon>
+            <icon type="camera"></icon>
+        </icons>
+        <content>
+            <price>50,00 usd</price>
+            <actions>
+                <action type="heart"></action>
+                <action type="envelope"></action>
+                <action type="phone"></action>
+            </actions>
+            <location>
+                <title>modern apartment</title>
+                <address>jogeshwari, mumbai, india - 400104</address>
+            </location>
+            <details>
+                <detail type="area">3500 sqft</detail>
+                <detail type="bedrooms">2 bed</detail>
+                <detail type="bathrooms">3 baths</detail>
+            </details>
+            <buttons>
+                <button>request info</button>
+                <button>view details</button>
+            </buttons>
+        </content>
+    </property>
+    <property>
+        <image>images/property-7.jpg</image>
+        <info>
+            <posted>1 day ago</posted>
+            <status>for sell</status>
+        </info>
+        <content>
+            <h3>luxury villa</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <button>learn more</button>
+        </content>
+    </property>
+    <property>
+        <image>images/property-8.jpg</image>
+        <info>
+            <posted>2 days ago</posted>
+            <status>for rent</status>
+        </info>
+        <content>
+            <h3>spacious apartment</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <button>learn more</button>
+        </content>
+    </property>
+    <property>
+        <image>images/property-9.jpg</image>
+        <info>
+            <posted>2 days ago</posted>
+            <status>for sell</status>
+        </info>
+        <content>
+            <h3>modern studio</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <button>learn more</button>
+        </content>
+    </property>
+    <property>
+        <image>images/property-10.jpg</image>
+        <info>
+            <posted>3 days ago</posted>
+            <status>for rent</status>
+        </info>
+        <content>
+            <h3>cozy bungalow</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <button>learn more</button>
+        </content>
+    </property>
+</properties>
